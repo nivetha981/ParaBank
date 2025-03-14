@@ -14,12 +14,11 @@ This project focuses on automating the testing of Parabank, a sample online bank
 
 **Tech Stack**
 
-Programming Language: Java
-Automation Tool: Selenium WebDriver
-Testing Framework: TestNG
-Build Tool: Maven
-Reporting: Extent Reports, TestNG Reports
-
+•	Programming Language: Java
+•	Automation Tool: Selenium WebDriver
+•	Testing Framework: TestNG
+•	Build Tool: Maven
+•	Reporting: Extent Reports, TestNG Reports
 
 **Contributing**
 
