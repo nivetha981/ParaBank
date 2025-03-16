@@ -24,6 +24,9 @@ This project focuses on automating the testing of Parabank, a sample online bank
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
 
+pls go through the documentation from the following  drive link
+https://docs.google.com/document/d/1XQ4_k1C2Y21YGsOW1uSLDTUGJL3XYkj1/edit?usp=sharing&ouid=107365354476532439590&rtpof=true&sd=true
+
 **License**
 This project is licensed under the MIT License.
 
