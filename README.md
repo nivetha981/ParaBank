@@ -2,7 +2,7 @@
 
 URL:https://parabank.parasoft.com
 
-This project focuses on automating the testing of Parabank, a sample online banking application. The automation framework is built using Selenium WebDriver, TestNG, Maven.
+This project focuses on automating the testing of Parabank, a online banking application. The automation framework is built using Selenium WebDriver, TestNG, Maven.
 
 **Features Tested**
 •	User Login & Logout
